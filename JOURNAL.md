@@ -1,4 +1,10 @@
-# Session 1
+# Electronic TCG Card Display
+
+**Andrew Posner**
+description: "A custom card frame/slab to display a price, and maybe other statistics"
+created_at: "2026-28-8"
+
+## Session 1
 
 ## August 28th - 29th: Worked on V1
 
@@ -7,3 +13,4 @@ Started working on the 3d printed frame. Main idea is to have a stand that can p
 <img width="708" height="695" alt="Screenshot 2026-09-04 at 1 29 05 PM" src="https://github.com/user-attachments/assets/afa9da40-ef14-4780-aedc-7c852ac5f158" />
 
 **Total time spent: 3 hours**
+
