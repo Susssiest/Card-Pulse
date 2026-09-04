@@ -1,7 +1,3 @@
-# Electronic TCG Card Display
-
-A custom card frame/slab to display a price, and maybe other statistics
-
 # Journal
 
 ## Session 1
