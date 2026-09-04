@@ -1,8 +1,10 @@
 # Electronic TCG Card Display
 
 **Andrew Posner**
-description: "A custom card frame/slab to display a price, and maybe other statistics"
-created_at: "2026-28-8"
+
+A custom card frame/slab to display a price, and maybe other statistics
+
+2026-28-8
 
 ## Session 1
 
