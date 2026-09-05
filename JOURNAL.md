@@ -36,3 +36,11 @@ I spent some time reading articles and forums, as well as talking to Claude for 
 <img width="1470" height="923" alt="Screenshot 2026-09-04 at 7 14 23 PM" src="https://github.com/user-attachments/assets/d4efaf37-b308-4847-95d1-449f3112eb9b" />
 
 **Total time spent: 4 hours**
+
+## September 4th: Added switch
+
+Realized I didn't have an actual power switch. Added a KCD01, took forever for some reason. Spent maybe 10 minutes finding stl, and an hour - an hour and a half adding the part and hoel for it to fit into the case, mainly because face where I added the switch hole get all messed up and I had to spend maybe 40 minutes repairing it.
+
+<img width="699" height="561" alt="Screenshot 2026-09-04 at 7 47 01 PM" src="https://github.com/user-attachments/assets/0bd0267e-fd33-406f-aee6-b28d1963930e" />
+
+**Total time spent: 1.5 hours**
