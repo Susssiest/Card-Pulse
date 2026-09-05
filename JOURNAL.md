@@ -23,4 +23,6 @@ I spent some time reading articles and forums, as well as talking to Claude for 
 
   I spent forever scouring the internet for 3D models of the parts, I found most on GrabCad, but a few took forever to find. I also kept on changing my mind between using a KY040 and EC11, but I finally chose the KY040 becuase the pins dont extrude downwards and it is more compact.
 
+<img width="620" height="221" alt="Screenshot 2026-09-04 at 6 17 11 PM" src="https://github.com/user-attachments/assets/567e627d-e8c4-4561-b3ac-c6c3026a32e7" />
+
   **Total time spent: 40 minutes**
