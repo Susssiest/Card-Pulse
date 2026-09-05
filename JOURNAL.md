@@ -49,4 +49,6 @@ Realized I didn't have an actual power switch. Added a KCD01, took forever for s
 
 I'm hoping that the cadding part of the project is done, I imported everything into bambu studio and arranged everything, set infills and wall loops, added strength modifiers, rotated some stuff, and filament mapped everything. Now I can hopefully start working on the code.
 
+<img width="1470" height="923" alt="Screenshot 2026-09-04 at 8 03 20 PM" src="https://github.com/user-attachments/assets/d20053be-522e-4c24-ab83-f6db866113e9" />
+
 **Total time spent: 40 Minutes**
