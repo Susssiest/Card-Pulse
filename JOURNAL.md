@@ -31,7 +31,8 @@ I spent some time reading articles and forums, as well as talking to Claude for 
 
   I kind of think the frame looks ugly, so I'm restarting. This time I'm thinking of actually having it mobile, and more like a portable case than a frame that sits on your wall. I will be adding the 3.7 v lithium battery, and a 5v booster, momentary push button, and rotary enocoder into the shell of the case. I feel like it would be cool to make it so you can scroll through different stats on the oled, and maybe even have a wifi choosing menu and led control menu. This complicates my design a lot, so I'm expecting my project to take a little more time than originally expected.
 
-  I spent maybe an hour making the basic case, and then maybe another hour and a half adding functions like underglow, wiring paths, splitting parts, screw holes, etc. Again,ran into lots of blender problems. I love and hate formware at the same time.
+  I spent maybe an hour making the basic case, and then maybe another hour and a half adding functions like underglow, wiring paths, splitting parts, screw holes, etc.Again,ran into lots of blender problems. I love and hate formware at the same time. Oh, I also found a kind of cool but also kind of dorky name for it. "CardPulse". Its pretty freaking dorky lol. I also spent a lot of time redoing stuff and finding dimensions for some of the parts I don't have 3d models for. I also spent a ton of time fixing this one face of the lid, the auto repair tools didn't work so I had to manually do it, I spent like an hour fixing it.
 
+<img width="1470" height="923" alt="Screenshot 2026-09-04 at 7 14 23 PM" src="https://github.com/user-attachments/assets/d4efaf37-b308-4847-95d1-449f3112eb9b" />
 
-
+**Total time spent: 4 hours**
