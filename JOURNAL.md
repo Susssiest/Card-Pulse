@@ -39,7 +39,7 @@ I spent some time reading articles and forums, as well as talking to Claude for 
 
 ## September 4th: Added switch
 
-Realized I didn't have an actual power switch. Added a KCD01, took forever for some reason. Spent maybe 10 minutes finding stl, and an hour - an hour and a half adding the part and hole for it to fit into the case, mainly because face where I added the switch hole get all messed up and I had to spend maybe 40 minutes repairing it.
+Realized I didn't have an actual power switch. Added a KCD01, took forever for some reason. Spent maybe 10 minutes finding stl, and an hour - an hour and a half adding the part and hole for it to fit into the case, mainly because face where I added the switch hole get all messed up and I had to spend maybe 40 minutes repairing it. I also changed my mind a bumch about its placement, and blender crashed because I tried perform a weird boolean and I had to restart. I hate blender. I need to learn fusion.
 
 <img width="699" height="561" alt="Screenshot 2026-09-04 at 7 47 01 PM" src="https://github.com/user-attachments/assets/0bd0267e-fd33-406f-aee6-b28d1963930e" />
 
