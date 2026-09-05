@@ -1,6 +1,6 @@
 # Journal
 
-## August 28th - 29th: Worked on V1
+## August 29th: Worked on V1
 
 Started working on the 3d printed frame. Main idea is to have a stand that can plug into a wall outlet and display the led and card price. Going to have leds on the sides, and a oled screen to display the price. Using blender, experiencing the usual problems, non manifold vertices, overlapping vertices, etc. Using ws2812b leds for the bars. I am probably going to use a standard 35pt toploader, but I might make one for psa card slabs. Imported reference card to make it more realistic.
 
@@ -25,9 +25,9 @@ I spent some time reading articles and forums, as well as talking to Claude for 
 
 <img width="620" height="221" alt="Screenshot 2026-09-04 at 6 17 11 PM" src="https://github.com/user-attachments/assets/567e627d-e8c4-4561-b3ac-c6c3026a32e7" />
 
-  **Total time spent: 40 minutes**
+**Total time spent: 40 minutes**
 
-  ## September 2nd: Worked on V2
+## September 2nd: Worked on V2
 
   I kind of think the frame looks ugly, so I'm restarting. This time I'm thinking of actually having it mobile, and more like a portable case than a frame that sits on your wall. I will be adding the 3.7 v lithium battery, and a 5v booster, momentary push button, and rotary enocoder into the shell of the case. I feel like it would be cool to make it so you can scroll through different stats on the oled, and maybe even have a wifi choosing menu and led control menu. This complicates my design a lot, so I'm expecting my project to take a little more time than originally expected.
 
