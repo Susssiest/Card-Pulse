@@ -52,3 +52,11 @@ I'm hoping that the cadding part of the project is done, I imported everything i
 <img width="1470" height="923" alt="Screenshot 2026-09-04 at 8 03 20 PM" src="https://github.com/user-attachments/assets/d20053be-522e-4c24-ab83-f6db866113e9" />
 
 **Total time spent: 40 Minutes**
+
+## September 5th: Made wiring diagram.
+Spent 2 hours 30 minutes working on the wiring diagram and final selection of parts. I am switching to an ESP23S3, and adding a level shifter for the leds, as well as a resistor, and maybe capacitor. I spent a large amount of my time finding the symbols and footprints, and I had to also make a few myself using the symbol editor. 
+
+[TCG Card Display Wiring Diagram.pdf](https://github.com/user-attachments/files/31882183/TCG.Card.Display.Wiring.Diagram.pdf)
+
+**Total time spent: 2.5 hours**
+
