@@ -54,6 +54,7 @@ I'm hoping that the cadding part of the project is done, I imported everything i
 **Total time spent: 40 Minutes**
 
 ## September 5th: Made wiring diagram.
+
 Spent 2 hours 30 minutes working on the wiring diagram and final selection of parts. I am switching to an ESP23S3, and adding a level shifter for the leds, as well as a resistor, and maybe capacitor. I spent a large amount of my time finding the symbols and footprints, and I had to also make a few myself using the symbol editor. 
 
 [TCG Card Display Wiring Diagram.pdf](https://github.com/user-attachments/files/31882183/TCG.Card.Display.Wiring.Diagram.pdf)
