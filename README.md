@@ -10,7 +10,7 @@ The card will be inserted into a protective 35pt Toploader, and inserted into th
 
 The LEDs have a rectangular cutout around the card, with small holes in the wall separating them to make a underglow effect, but will be also facing upwards, into 3D printed diffusers to have status leds in the lid.
 
-The case has a second rectangular hole surrounding the leds, I’m planning in putting all the battery and led wires in them (the battery is above the leds, and therefore the leds are in between the battery and xiao).The wire paths will have an occasional hole in the intersecting wall to provide holes for wires to come through.
+The case has a second rectangular hole surrounding the leds, I’m planning on putting all the battery and led wires in it (the battery is above the leds, and therefore the leds are in between the battery and xiao).The wire paths will have an occasional hole in the intersecting wall to provide holes for wires to come through.
 
 The card also has a space for batteries, already mentioned above, it sits at the top of the case. It has a space next to it for the 5V boost for leds, and it has a slot to the other side for the power switch.
 
