@@ -61,3 +61,9 @@ Spent 2 hours 30 minutes working on the wiring diagram and final selection of pa
 
 **Total time spent: 2.5 hours**
 
+## September 6th: Updated wiring diagram.
+
+Added capacitors, fixed gnd paths with 5v boost, and rechecked schematic. 
+
+
+
