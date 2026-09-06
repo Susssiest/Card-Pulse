@@ -65,6 +65,6 @@ Spent 2 hours 30 minutes working on the wiring diagram and final selection of pa
 
 Added capacitors, fixed gnd paths with 5v boost, and rechecked schematic. 
 
-[TCG Card Display Wiring Diagram.pdf](https://github.com/user-attachments/files/31888624/TCG.Card.Display.Wiring.Diagram.pdf)
+<img width="1295" height="717" alt="Screenshot 2026-09-06 at 1 20 57 PM" src="https://github.com/user-attachments/assets/d9c16196-578e-4020-9f8b-6f33f1f38920" />
 
 **Total time spent: 40 minutes**
