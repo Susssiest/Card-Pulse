@@ -76,19 +76,3 @@ Spent 3 hours working with perplexity to help me understand code, and then it gu
 **Total time spent: 3 hours**
 
 <img width="747" height="544" alt="Screenshot 2026-09-07 at 8 02 13 AM" src="https://github.com/user-attachments/assets/01c2cbfa-f29d-42ce-9730-7cd2224d32e7" />
-
-## September 7th: Finished up all documentation in github
-
-Added renders, polished up readme, rechecked firmware, and updated journal.
-
-<img width="1470" height="796" alt="Screenshot 2026-09-07 at 8 44 44 AM" src="https://github.com/user-attachments/assets/2a8e264d-6fbf-430e-b5fc-1f7a7bbcf856" />
-
-**Total time spent: 20 minutes**
-
-## September 7th: Finished BOM and found all final listings
-
-Added final prices, links, sellers, etc in BOM. Will buy from Aliexpress and Amazon. Uploaded BOM to github and put in readme.
-
-<img width="1197" height="801" alt="Screenshot 2026-09-07 at 9 40 40 AM" src="https://github.com/user-attachments/assets/7b7e249d-08fb-4ec5-9f37-b0bad3ce334f" />
-
-**Total time spent: 40 minutes**

@@ -1,7 +1,5 @@
 # CardFrame — Project Summary
 
-AI GENERATED
-
 ## What this is
 
 CardFrame is a battery-powered, Wi-Fi-connected desk display for a single
