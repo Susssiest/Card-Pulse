@@ -75,3 +75,4 @@ Spent 3 hours working with perplexity to help me understand code, and then it gu
 
 **Total time spent: 3 hours**
 
+<img width="747" height="544" alt="Screenshot 2026-09-07 at 8 02 13 AM" src="https://github.com/user-attachments/assets/01c2cbfa-f29d-42ce-9730-7cd2224d32e7" />
