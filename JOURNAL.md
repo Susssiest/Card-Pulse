@@ -69,6 +69,9 @@ Added capacitors, fixed gnd paths with 5v boost, and rechecked schematic.
 
 **Total time spent: 40 minutes**
 
-## Swptember 6th: Spent 2 hours working with perplexity to help me understand code, and then it guided me and generated some of the code. I freaking love computer. I spent maybe 30 minutes finding the perfect api, tcgapi.dev, and then worked with computer on the search engine, and generated a config with a placeholder for my key, and one for myself that has a key. It automatically exported all code to my repo, and write a summary and installation guide. Note: main readme and journal are written by me.
+## September 6th: Working on code
 
+Spent 3 hours working with perplexity to help me understand code, and then it guided me and generated some of the code. I freaking love computer. I spent maybe 30 minutes finding the perfect api, tcgapi.dev, and then worked with computer on the search engine, and generated a config with a placeholder for my key, and one for myself that has a key. It automatically exported all code to my repo, and write a summary and installation guide. Note: main readme and journal are written by me.
+
+**Total time spent: 3 hours**
 
