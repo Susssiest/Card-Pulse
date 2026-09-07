@@ -83,4 +83,4 @@ Added renders, polished up readme, rechecked firmware, and updated journal.
 
 <img width="1470" height="796" alt="Screenshot 2026-09-07 at 8 44 44 AM" src="https://github.com/user-attachments/assets/2a8e264d-6fbf-430e-b5fc-1f7a7bbcf856" />
 
-**Total time spent: 30 minutes**
+**Total time spent: 20 minutes**
