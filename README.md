@@ -12,3 +12,6 @@ The card itself will be stored inside a protective 35pt case while inside a Card
 
 <img width="511" height="238" alt="Screenshot 2026-09-07 at 8 41 33 AM" src="https://github.com/user-attachments/assets/5ba0188b-8397-4522-b247-2b71864fe869" />
 
+# API Link
+
+https://tcgapi.dev/introduction/
