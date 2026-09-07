@@ -68,3 +68,7 @@ Added capacitors, fixed gnd paths with 5v boost, and rechecked schematic.
 <img width="1295" height="717" alt="Screenshot 2026-09-06 at 1 20 57 PM" src="https://github.com/user-attachments/assets/d9c16196-578e-4020-9f8b-6f33f1f38920" />
 
 **Total time spent: 40 minutes**
+
+## Swptember 6th: Spent 2 hours working with perplexity to help me understand code, and then it guided me and generated some of the code. I freaking love computer. I spent maybe 30 minutes finding the perfect api, tcgapi.dev, and then worked with computer on the search engine, and generated a config with a placeholder for my key, and one for myself that has a key. It automatically exported all code to my repo, and write a summary and installation guide. Note: main readme and journal are written by me.
+
+
