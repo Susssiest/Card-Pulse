@@ -76,3 +76,19 @@ Spent 3 hours working with perplexity to help me understand code, and then it gu
 **Total time spent: 3 hours**
 
 <img width="747" height="544" alt="Screenshot 2026-09-07 at 8 02 13 AM" src="https://github.com/user-attachments/assets/01c2cbfa-f29d-42ce-9730-7cd2224d32e7" />
+
+## September 7th: Finished BOM and found all final listings
+
+Added final prices, links, sellers, etc in BOM. Will buy from Aliexpress and Amazon. Uploaded BOM to github and put in readme.
+
+<img width="776" height="311" alt="Screenshot 2026-09-07 at 10 09 58 AM" src="https://github.com/user-attachments/assets/07117d00-48cb-400d-b8da-10449b958657" />
+
+**Total time spent: 1 hour**
+
+## September 7th: Finished up all documentation in github
+
+Added renders, polished up readme, rechecked firmware, and updated journal. Compiled files into folders, updated BOM file. I also accidentally reverted the journal to a previus version, and had to rewrite the entries. Copied and pasted forge logs because they didn't get deleted.
+
+<img width="1470" height="956" alt="Screenshot 2026-09-07 at 10 12 14 AM" src="https://github.com/user-attachments/assets/47108689-aed7-4ea8-8169-da30136a2f5a" />
+
+**Total time spent: 1 hour**
