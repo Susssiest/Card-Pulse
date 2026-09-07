@@ -10,7 +10,7 @@ The card itself will be stored inside a protective 35pt case while inside a Card
 
 ## BOM
 
-<img width="983" height="288" alt="Screenshot 2026-09-07 at 9 33 17 AM" src="https://github.com/user-attachments/assets/d38c264f-cfc9-4158-890f-3cf7fba07385" />
+<img width="903" height="270" alt="Screenshot 2026-09-07 at 9 35 59 AM" src="https://github.com/user-attachments/assets/0f6e7bf6-f34d-4028-bf42-c66789d290ba" />
 
 ## API Link
 
