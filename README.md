@@ -26,4 +26,11 @@ The card also has a space for batteries, already mentioned above, it sits at the
 8. KCD01
 9. Resistor: 330 R
 10. Capacitor: 1000uf
+11. Capacitor: 0.1uf
+12. 22 AWG Wire
+13. 26 AWG Wire
+14. JST Connectors
 
+## Wiring Diagram
+
+[Card Pulse Wiring Diagram.pdf](https://github.com/user-attachments/files/31921497/Card.Pulse.Wiring.Diagram.pdf)
