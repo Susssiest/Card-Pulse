@@ -25,6 +25,10 @@ The card will be inserted into a protective 35pt Toploader, and inserted into th
 13. 26 AWG Wire
 14. JST Connectors
 
+## BOM
+
+<img width="902" height="269" alt="Screenshot 2026-09-07 at 10 22 27 AM" src="https://github.com/user-attachments/assets/9fca34e5-24b7-475a-b0ec-d31ec91b265e" />
+
 ## Wiring Diagram
 
 <img width="899" height="635" alt="Screenshot 2026-09-07 at 10 07 12 AM" src="https://github.com/user-attachments/assets/3749dc6e-8b09-4758-9824-89110e21d5f5" />
