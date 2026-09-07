@@ -10,15 +10,5 @@ The card itself will be stored inside a protective 35pt case while inside a Card
 
 ## Complete List of Parts
 
-1. ESP32S3
-2. KY040
-3. 12 mm Momentary Push Button
-4. 18650 3.7 V Lithium battery
-5. 2.42 in OLED Screen
-6. SN74AHCT125N Level Shifter
-7. 5V Boost
-8. KCD01
-9. Resistor: 330 R
-10. Capacitor: 1000uf
-11. Capacitor  0.1uf
+<img width="511" height="238" alt="Screenshot 2026-09-07 at 8 41 33 AM" src="https://github.com/user-attachments/assets/5ba0188b-8397-4522-b247-2b71864fe869" />
 
