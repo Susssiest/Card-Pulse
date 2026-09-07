@@ -87,8 +87,9 @@ Added final prices, links, sellers, etc in BOM. Will buy from Aliexpress and Ama
 
 ## September 7th: Finished up all documentation in github
 
-Added renders, polished up readme, rechecked firmware, and updated journal. Compiled files into folders, updated BOM file. I also accidentally reverted the journal to a previus version, and had to rewrite the entries. Copied and pasted forge logs because they didn't get deleted.
+Added renders, polished up readme, rechecked firmware, and updated journal. Compiled files into folders, updated BOM file. I also accidentally reverted the journal to a previus version, and had to rewrite the entries. Copied and pasted forge logs because they didn't get deleted. Also converted all stls to step files, took around 30 minutes.
 
 <img width="1470" height="956" alt="Screenshot 2026-09-07 at 10 12 14 AM" src="https://github.com/user-attachments/assets/47108689-aed7-4ea8-8169-da30136a2f5a" />
 
-**Total time spent: 1 hour**
+**Total time spent: 1.5 hours**
+
