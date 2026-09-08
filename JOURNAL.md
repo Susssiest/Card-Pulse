@@ -93,3 +93,12 @@ Added renders, polished up readme, rechecked firmware, and updated journal. Comp
 
 **Total time spent: 1.5 hours**
 
+## September 8th animated parts and made a 30 second assembly animation
+
+Animated all the components in blender and recorded the final result, and then converted mov to mp4.
+
+<img width="400" height="320" alt="Assembly" src="https://github.com/user-attachments/assets/bd9af3ce-bc12-4270-b766-e63eb52c60ec" />
+
+**Total time spent: 40 minutes**
+
+
