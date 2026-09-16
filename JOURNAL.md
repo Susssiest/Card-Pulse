@@ -93,7 +93,7 @@ Added renders, polished up readme, rechecked firmware, and updated journal. Comp
 
 **Total time spent: 1.5 hours**
 
-## September 8th animated parts and made a 30 second assembly animation
+## September 8th: animated parts and made a 30 second assembly animation
 
 Animated all the components in blender and recorded the final result, and then converted mov to mp4.
 
@@ -101,4 +101,11 @@ Animated all the components in blender and recorded the final result, and then c
 
 **Total time spent: 40 minutes**
 
+## September 15th: Bought everything
+
+Bought all parts, now waiting on amazon and aliexpress.
+
+<img width="825" height="780" alt="Screenshot 2026-09-15 at 7 48 31 PM" src="https://github.com/user-attachments/assets/1c4f6c2e-4c50-44f1-859a-f530bb8fb085" />
+
+**Total time spent: 30 minutes**
 
