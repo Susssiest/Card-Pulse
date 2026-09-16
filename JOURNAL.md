@@ -103,7 +103,7 @@ Animated all the components in blender and recorded the final result, and then c
 
 ## September 15th: Bought everything
 
-Bought all parts, now waiting on amazon and aliexpress.
+Bought all parts, now waiting on amazon and aliexpress. 82 bucks spent with grants, 30 out of pocket.
 
 <img width="825" height="780" alt="Screenshot 2026-09-15 at 7 48 31 PM" src="https://github.com/user-attachments/assets/1c4f6c2e-4c50-44f1-859a-f530bb8fb085" />
 
