@@ -32,3 +32,10 @@
 ## Wiring Diagram
 
 <img width="899" height="635" alt="Screenshot 2026-09-07 at 10 07 12 AM" src="https://github.com/user-attachments/assets/3749dc6e-8b09-4758-9824-89110e21d5f5" />
+
+## Assembly
+
+https://github.com/user-attachments/assets/116129a6-97be-465f-80bf-904350856c0c
+
+
+
