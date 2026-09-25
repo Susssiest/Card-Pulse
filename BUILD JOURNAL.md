@@ -1,4 +1,4 @@
-# Card Pulse Project DESIGN JOURNAL
+# Card Pulse Project BUILD JOURNAL
 
 
 ## Printed Test Version
