@@ -1,4 +1,4 @@
-# Journal
+# Card Pulse Project DESIGN JOURNAL
 
 ## August 29th: Worked on V1
 
